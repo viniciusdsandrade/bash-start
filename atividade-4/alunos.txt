@@ -1,5 +1,5 @@
 Nome                                Nota1   Nota2   Média  Faltas  Situação
-Andrade                             5       6       5.50    0       Aprovado
-Arthur                              4       5       4.50    6       Aprovado
+Vinícius Andrade                    8       9       8.5     0       Aprovado
+Arthur Andrade                      7       6       6.5     12      Aprovado
 -------------------------------------------------------------------------
-                                                    Média geral das médias: 5.00    
+                                                    Média geral das médias: 7.5     
