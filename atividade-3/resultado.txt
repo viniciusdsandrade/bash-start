@@ -1,0 +1,3 @@
+Média: 15.1538
+Variância: 49.9744
+Desvio Padrão: 7.06926
